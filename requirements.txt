@@ -1,0 +1,8 @@
+numpy
+pandas
+opencv-python
+tensorflow
+torch
+sentence-transformers
+speechrecognition
+matplotlib
